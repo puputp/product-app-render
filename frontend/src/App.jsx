@@ -62,7 +62,7 @@ export default function App() {
       <div className="container">
         <header className="header">
           <div>
-            <h1 className="title">Product List</h1>
+            <h1 className="title">Product Management (Dev)</h1>
             <p className="subtitle">
               React → gọi API Node.js → đọc dữ liệu PostgreSQL
             </p>
